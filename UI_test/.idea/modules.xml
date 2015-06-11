@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileChooseFilter/FileChooseFilter.iml" filepath="$PROJECT_DIR$/FileChooseFilter/FileChooseFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Layout/Layout.iml" filepath="$PROJECT_DIR$/Layout/Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tray/Tray.iml" filepath="$PROJECT_DIR$/Tray/Tray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UI_Notebook/UI_Notebook.iml" filepath="$PROJECT_DIR$/UI_Notebook/UI_Notebook.iml" />
       <module fileurl="file://$PROJECT_DIR$/UI_test.iml" filepath="$PROJECT_DIR$/UI_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UI_test_2/UI_test_2.iml" filepath="$PROJECT_DIR$/UI_test_2/UI_test_2.iml" />
     </modules>
   </component>
 </project>
